@@ -18,3 +18,8 @@ a {
 	background-image: url("/Users/amelgoza/Desktop/Projects/BroadwayDesign/resources/img/the-flatiron-building.png");
 	color: white;
 }
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
