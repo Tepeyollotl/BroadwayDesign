@@ -32,3 +32,10 @@ h2 {
 .section p {
 	font-size: 14px;
 }
+
+#divider {
+	color: white;
+	font-size: 23px;
+	font-weight: bold;
+	background-image: url("/Users/amelgoza/Desktop/Projects/BroadwayDesign/resources/img/the-flatiron-building.png");
+}
